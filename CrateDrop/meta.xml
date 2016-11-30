@@ -1,0 +1,5 @@
+<meta>
+	<info Author="Astrobix" name="crateDropSystem" description="Crates falling all over LS" version="1.0" type="script" />
+		<script src="client.lua" type="server" />
+		
+</meta>
